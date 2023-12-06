@@ -23,7 +23,7 @@ Internal Storage | 256 GB (UFS 2.1) |
 ![Ulefone Armor_17_Pro](https://cdn-files.kimovil.com/default/0007/90/thumb_689946_default_big.jpg)
 -------------------------------
 ### Status
-[<img align="center" src="https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/actions/workflows/New2_twrp.yml/badge.svg?branch=twrp-12.21" />](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/actions/workflows/New2_twrp.yml)
+[<img align="center" src="https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/actions/workflows/New2_twrp.yml/badge.svg?branch=twrp-12.2" />](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/actions/workflows/New2_twrp.yml)
 
 The tester only install `vendor_boot-Armor_17_Pro-20231206.img` file to know if working.
 <details><summary>History - Click to open</summary>

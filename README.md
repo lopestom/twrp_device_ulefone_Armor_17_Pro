@@ -1,4 +1,4 @@
-[![GitHub Release](https://img.shields.io/github/release/lopestom/twrp_device_ulefone_Armor_17_Pro.svg?logo=github)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases) [![GPLv3+](https://img.shields.io/badge/license-GPLv3+-red.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![GitHub Release](https://img.shields.io/github/release/lopestom/twrp_device_ulefone_Armor_17_Pro.svg?logo=github)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/) [![GPLv3+](https://img.shields.io/badge/license-GPLv3+-red.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 -------------------------------
 # TWRP device tree for Ulefone Armor_17_Pro - Helio G99 - MT6789 - A12
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?token=Cxr1xP4Yr_XgV2E5lpC6Oo4qvbqmPiS3TgR6aiMEnQUgxr_nP242Z6zMqzeluThwaikNL-FXe8RnA1pT) to TeamWin so any donation is highly appreciated!

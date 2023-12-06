@@ -1,4 +1,4 @@
-[![GitHub Release](https://img.shields.io/github/release/lopestom/twrp_device_ulefone_Armor_17_Pro.svg?logo=github)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/) [![GPLv3+](https://img.shields.io/badge/license-GPLv3+-red.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![GitHub Release](https://img.shields.io/github/release/lopestom/twrp_device_ulefone_Armor_17_Pro.svg?logo=github)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases) [![GPLv3+](https://img.shields.io/badge/license-GPLv3+-red.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 -------------------------------
 # TWRP device tree for Ulefone Armor_17_Pro - Helio G99 - MT6789 - A12
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?token=Cxr1xP4Yr_XgV2E5lpC6Oo4qvbqmPiS3TgR6aiMEnQUgxr_nP242Z6zMqzeluThwaikNL-FXe8RnA1pT) to TeamWin so any donation is highly appreciated!
@@ -6,7 +6,7 @@
 ## Status
 This branch android-12.1 has ***encrypt/decrypt*** files and option to more test with that.
 
-[![download](https://img.shields.io/github/downloads/lopestom/twrp_device_ulefone_Armor_17_Pro/total)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/download/Ulefone_Armor_17_Pro/vendor_boot-Armor_17_Pro-20230817.img)
+[![download](https://img.shields.io/github/downloads/lopestom/twrp_device_ulefone_Armor_17_Pro/total)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/download/Ulefone_Armor_17_Pro-V3.03/vendor_boot-Armor_17_Pro-20231206.img)
 -------------------------------
 ### Firmware version
 GQ3100TF1_KSS1_Ulefone_EEA_20230809_V03_EU.zip -- S1S68A7.GQU.Ulefone_EEA.FHD.HB.Y5SZPTUCVFULNM.20230809.V3.03

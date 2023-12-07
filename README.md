@@ -6,6 +6,8 @@
 ## Status
 This branch android-12.1 has ***encrypt/decrypt*** files and option to more test with that.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/twrp_device_ulefone_Armor_17_Pro/count.svg)
+
 [![download](https://img.shields.io/github/downloads/lopestom/twrp_device_ulefone_Armor_17_Pro/total)](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/download/Ulefone_Armor_17_Pro-V3.03/vendor_boot-Armor_17_Pro-20231206.img)
 -------------------------------
 ### Firmware version

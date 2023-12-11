@@ -51,9 +51,11 @@ Some tests was made:
 
 <details><summary>TWRP Pictures - Click to open</summary>
 <p>
+   
+![Menu](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/download/Ulefone_Armor_17_Pro-V3.03/Screenshot_2023-12-11-09-32-14.png)
+![SS](https://github.com/lopestom/twrp_device_ulefone_Armor_17_Pro/releases/download/Ulefone_Armor_17_Pro-V3.03/Screenshot_2023-12-11-09-32-20.png)
 
-![Mount Storages](https://github.com/lopestom/) ![Data Decrypted](https://github.com/lopestom/) ![Mount Partitions](https://github.com/lopestom/) ![Mount Partitions 1](https://github.com/lopestom/t)
-![SS data_media](https://github.com/lopestom/)
+![Data Decrypted](https://github.com/lopestom/) ![Mount Partitions](https://github.com/lopestom/) ![Mount Partitions 1](https://github.com/lopestom/t)
 ![Data Partition](https://github.com/lopestom/)
 
 </p>

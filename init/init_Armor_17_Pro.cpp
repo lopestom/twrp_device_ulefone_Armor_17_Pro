@@ -49,5 +49,5 @@ void model_property_override(const std::string& device, const std::string& model
 }
 
 void vendor_load_properties() {
-    model_property_override("Armor_17_Pro", "Armor 17 Pro");
+    model_property_override("Armor_17_Pro", "Armor_17_Pro");
 }
